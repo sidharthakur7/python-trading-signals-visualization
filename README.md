@@ -67,4 +67,4 @@ python src/main.py
 
 👨‍💻 Author
 
-Siddharth Thakur
+Sidharth Thakur
